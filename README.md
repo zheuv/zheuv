@@ -1,4 +1,9 @@
 
+
+<h3><code>Dataanalyst & Software engineering / Psychology student </code></h3>
+
+<p>I am a Data Analyst, Software engineering and Psychology student. to say something cliché, I want to shape my intellectual journey so that it evolves around unraveling the intracities of the psyche and mind using the powers of Statistics and Technology. Other than this, I am into analytical , continental philosophy and chess... I refuse to read Romance&Fiction.</p>
+
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=zheuv&theme=radical" alt="trophy">
 </div>
@@ -15,12 +20,7 @@
    <img src="https://github-readme-streak-stats.herokuapp.com?user=zheuv&theme=tokyonight_duo&hide_border=true" alt="Zheuv's GitHub Contributions Streak" />
  </p>
 
-<!--Visits Counter-->   
-<div align="center">
-  <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{zheuv}/count.svg" alt="Zheuv's Visitors Count" /></p> 
-  <br>
-</div>
+
 
 
 
