@@ -6,7 +6,9 @@
 
 <!--Social Media-->  
 <div align="center"> 
-<a href="https://x.com/zheuvv?s=11" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://x.com/zheuvv?s=11" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
 <a href="https://github.com/zheuv" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </a>
  </div>
