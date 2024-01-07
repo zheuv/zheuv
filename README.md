@@ -1,3 +1,5 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=zheuv)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zheuv)
 
 
