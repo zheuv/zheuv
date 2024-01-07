@@ -1,6 +1,6 @@
 
 
-<h3><code>Dataanalyst & Software engineering / Psychology student </code></h3>
+<h3><code>Data Analyst & Software engineering / Psychology student </code></h3>
 
 <p>I am a Data Analyst, Software engineering and Psychology student. to say something cliché, I want to shape my intellectual journey so that it evolves around unraveling the intricacies of the psyche and mind using the powers of Statistics and Technology. Other than this, I am into analytical , continental philosophy and chess... I refuse to read Romance&Fiction.</p>
 
